@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
 
     <h1>Ćwiczenia</h1>
@@ -15,25 +17,31 @@
     <h3>Lista</h3>
 
     <ul>
-        <li><a href="">Link 1</a></li>
-        <li><a href="">Link 2</a></li>
-        <li><a href="">Link 3</a></li>
-        <li><a href="">Link 4</a></li>
-        <li><a href="">Link 5</a></li>
+        <li>element</li>
+        <li>element</li>
+        <li>element</li>
+        <li>element</li>
+        <li>element</li>
     </ul>
+
+    <h3>Linki</h3>
+    <a href="">odnośnik</a>
+    <a href="">odnośnik</a><br>
+    <a href="">odnośnik</a>
 
     <h3>Przyciski:</h3>
 
-    
-        <form>
-            <input type="submit" value="przycisk 1">
-            <input type="submit" value="przycisk 2"><br><br>
-            <input type="submit" value="przycisk 3">
-        </form>
+
+    <form>
+        <input type="submit" value="przycisk 1">
+        <input type="submit" value="przycisk 2"><br><br>
+        <input type="submit" value="przycisk 3">
+    </form>
 
     <h3>Obrazek:</h3>
-        <img src="C:\Users\Kacper\Desktop\programista.jpg" alt="programista">
+    <img src="C:\Users\Kacper\Desktop\programista.jpg" alt="programista">
 
 
 </body>
+
 </html>
