@@ -39,7 +39,7 @@
     </form>
 
     <h3>Obrazek:</h3>
-    <img src="C:\Users\Kacper\Desktop\programista.jpg" alt="programista">
+    <img src="img/programista.jpg" alt="programista">
 
 
 </body>
